@@ -1,2 +1,0 @@
-# SINETH-X-MD
-SINETH MD 
