@@ -31,7 +31,7 @@ function App() {
         </div>
 
        <div className="brand-text">
-          <h2>MADUSANKA-MD MINI BOT</h2>
+          <h2>SINETH-X-MD MINI BOT</h2>
         </div>
 
 <div className="menu-btn" onClick={toggleMenu}>☰</div>
