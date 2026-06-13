@@ -27,7 +27,7 @@ function App() {
     return (<>
     <header>
         <div className="logo">
-          <img src="src/madu-logo.jpg" alt="logo" />
+          <img src="src/madu-logojpg.png" alt="logo" />
         </div>
 
        <div className="brand-text">
@@ -38,7 +38,7 @@ function App() {
 
         {/* MENU */}
         <nav className="menu">
-          <img src="src/madu-logo.jpg"></img>
+          <img src="src/madu-logojpg.png"></img>
           <h3>&lt;/&gt; SIMETH THISARA Dev</h3>
           <span></span>
           <a href="#App.jsx"><i className="fa-solid fa-house"></i> Home</a>
@@ -77,7 +77,7 @@ function App() {
  
  
  <div className="about-me" id="about">
-    <img src="src/madu-logo.jpg"></img>
+    <img src="src/madu-logojpg.png"></img>
     
     <i><h2>SINETH-X-MD BOT ABOUT</h2></i>
     
