@@ -60,7 +60,7 @@ function App() {
    
    <div className="main">
      <div className="image">
-        <img src="src/madu-banner-logo.jpg" alt="banner" />
+        <img src="src/madu-banner-logojpg.png" alt="banner" />
      </div>
   <div className="bot-text">
     <h1>WELCOME TO SINETH-X-MD V.1 MINI BOT</h1>
